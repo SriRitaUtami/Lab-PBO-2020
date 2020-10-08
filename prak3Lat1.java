@@ -23,3 +23,6 @@ public class prak3Lat1 {
  		System.out.println("++d = " + (++d) );
  }
 }			
+/**
+*Program berikut untuk mencoba operator aritmatika
+*/
